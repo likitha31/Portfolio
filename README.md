@@ -1,4 +1,4 @@
-# art.studio template
+# art.studio Portfolio template
 
 ### Note
 
